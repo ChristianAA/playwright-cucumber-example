@@ -1,0 +1,23 @@
+{
+    "default": {     
+        "paths": [    
+            "src/features/"    
+        ],    
+        "require": [  
+            "src/steps/*.js",
+            "src/support/world.js"
+        ],    
+        "formatOptions": {    
+            "snippetInterface": "async-await"    
+        },    
+        "format": [
+            [   
+                "html",    
+                "results/cucumber-report.html"    
+            ],    
+            "summary",    
+            "progress-bar",    
+            "json:results/cucumber-report.json"    
+        ]    
+    }    
+}

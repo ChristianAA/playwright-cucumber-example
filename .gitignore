@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules/
+
+# VSCode
+.vscode/
+
+# Project
+package-lock.json
+results/
