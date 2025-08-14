@@ -1,3 +1,6 @@
+[![Daily Playwright Tests](https://github.com/ChristianAA/playwright-cucumber-example/actions/workflows/daily-test.yml/badge.svg)](https://github.com/ChristianAA/playwright-cucumber-example/actions/workflows/daily-test.yml)
+
+
 # Playwright + Cucumber Example
 
 This repository contains the base setup of an UI testing project, using Playwright + Cucumber
